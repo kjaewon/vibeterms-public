@@ -1,0 +1,11 @@
+{
+  "latestVersion": "0.1.0",
+  "latestBuild": 1,
+  "minSupportedVersion": "0.1.0",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
+  "releaseNotes": {
+    "ko": "최초 버전입니다.",
+    "en": "Initial release.",
+    "ja": "初回リリースです。"
+  }
+}
