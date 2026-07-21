@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.1.0",
-  "latestBuild": 1,
+  "latestVersion": "0.2.0",
+  "latestBuild": 2,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "최초 버전입니다.",
-    "en": "Initial release.",
-    "ja": "初回リリースです。"
+    "ko": "용어가 1,000개로 늘었어요. 학습 알림, 화면 안내 투어, 보상형 광고(보호권 획득)를 추가하고 검색·성능을 개선했습니다.",
+    "en": "Grown to 1,000 terms. Added learning reminders, a first-run tour, and rewarded ads for streak shields, plus search and performance fixes.",
+    "ja": "用語が1,000語に増えました。学習リマインダー、初回案内ツアー、リワード広告(保護券獲得)を追加し、検索・パフォーマンスを改善しました。"
   }
 }
