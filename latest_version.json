@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.3.1",
-  "latestBuild": 4,
+  "latestVersion": "0.3.2",
+  "latestBuild": 5,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "잠금화면·홈 화면 위젯으로 오늘의 용어를 바로 확인하고, 학습 알림이 오지 않던 문제를 고쳤습니다.",
-    "en": "See today's term right from the lock screen and a home screen widget. Fixed learning reminders not arriving.",
-    "ja": "ロック画面・ホーム画面ウィジェットで今日の用語をすぐ確認できます。学習リマインダーが届かない問題を修正しました。"
+    "ko": "용어 상세·설정 등 화면 하단이 잘려 보이던 문제를 고쳤고, 오늘의 AI 문장을 180개로 늘려 사용자마다 다른 순서로 보여줍니다.",
+    "en": "Fixed content getting clipped at the bottom of some screens, and expanded today's AI sentence pool to 180 with a personalized rotation.",
+    "ja": "一部画面の下部が切れる問題を修正し、今日のAI文をユーザーごとに異なる順序で表示する180パターンに増やしました。"
   }
 }
