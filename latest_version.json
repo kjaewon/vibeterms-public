@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.3.2",
-  "latestBuild": 5,
+  "latestVersion": "0.3.3",
+  "latestBuild": 6,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "용어 상세·설정 등 화면 하단이 잘려 보이던 문제를 고쳤고, 오늘의 AI 문장을 180개로 늘려 사용자마다 다른 순서로 보여줍니다.",
-    "en": "Fixed content getting clipped at the bottom of some screens, and expanded today's AI sentence pool to 180 with a personalized rotation.",
-    "ja": "一部画面の下部が切れる問題を修正し、今日のAI文をユーザーごとに異なる順序で表示する180パターンに増やしました。"
+    "ko": "학습 수준 진단과 초급·중급·고급 3단계 맞춤 학습을 추가했습니다. 오늘의 학습은 사용자별로 다르게 구성되며, 초보자에게 어려운 용어가 먼저 나오지 않도록 개선했습니다. 온보딩 종료 후 홈으로 이동하고, 배지 알림이 다음 학습 버튼을 가리지 않도록 수정했습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
+    "en": "Added a level check and personalized Beginner, Intermediate, and Advanced learning. Daily terms now vary by user while keeping difficult concepts out of beginner plans. Onboarding now finishes on Home, and badge notifications no longer cover the Next Lesson button. Ads are not shown in this test build.",
+    "ja": "レベル診断と、初級・中級・上級の3段階に合わせた学習を追加しました。今日の学習はユーザーごとに変わり、初級では難しい用語が先に出ないよう改善しました。オンボーディング後はホームへ移動し、バッジ通知が「次を学習」ボタンを隠さないよう修正しました。このテストビルドでは広告は表示されません。"
   }
 }
