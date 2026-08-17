@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.3.3",
-  "latestBuild": 6,
+  "latestVersion": "0.4.0",
+  "latestBuild": 7,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "학습 수준 진단과 초급·중급·고급 3단계 맞춤 학습을 추가했습니다. 오늘의 학습은 사용자별로 다르게 구성되며, 초보자에게 어려운 용어가 먼저 나오지 않도록 개선했습니다. 온보딩 종료 후 홈으로 이동하고, 배지 알림이 다음 학습 버튼을 가리지 않도록 수정했습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
-    "en": "Added a level check and personalized Beginner, Intermediate, and Advanced learning. Daily terms now vary by user while keeping difficult concepts out of beginner plans. Onboarding now finishes on Home, and badge notifications no longer cover the Next Lesson button. Ads are not shown in this test build.",
-    "ja": "レベル診断と、初級・中級・上級の3段階に合わせた学習を追加しました。今日の学習はユーザーごとに変わり、初級では難しい用語が先に出ないよう改善しました。オンボーディング後はホームへ移動し、バッジ通知が「次を学習」ボタンを隠さないよう修正しました。このテストビルドでは広告は表示されません。"
+    "ko": "검색에서 오타를 입력해도 비슷한 용어를 찾아줍니다. 예를 들어 enviroment나 환경변슈처럼 잘못 입력해도 알맞은 용어를 추천합니다. 검색 속도도 크게 빨라졌습니다. 화면 아래 안내 문구를 전면 정리했습니다. 즐겨찾기 안내가 사라지지 않던 문제를 고쳤고, 프롬프트 복사는 버튼에서 바로 확인되며, 배지 안내는 한 줄로 합쳐 짧게 표시됩니다. 학습 알림 예약이 중간에 실패해도 나머지 날짜는 정상 등록되도록 개선했습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
+    "en": "Search now handles typos: misspellings like enviroment or a mistyped Korean term still surface the right entry. Search is also much faster. Bottom-of-screen messages were reworked across the app. Fixed a bug where the favorite message never disappeared, prompt copying now confirms on the button itself, and badge messages are combined into a single short line. Reminder scheduling no longer loses the remaining days when one day fails. Ads are not shown in this test build.",
+    "ja": "検索でスペルを間違えても近い用語を見つけられるようになりました。enviromentのような入力ミスでも適切な用語を提案します。検索速度も大幅に改善しました。画面下部の案内表示を全面的に整理しました。お気に入りの案内が消えない問題を修正し、プロンプトのコピーはボタン上で確認でき、バッジの案内は1行にまとめて短く表示します。学習リマインダーは一部の予約が失敗しても残りの日付が正しく登録されるようにしました。このテストビルドでは広告は表示されません。"
   }
 }
