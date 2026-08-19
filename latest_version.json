@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.5.0",
-  "latestBuild": 8,
+  "latestVersion": "0.5.1",
+  "latestBuild": 9,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "실전 탭이 새로 생겼습니다. 기획부터 배포까지 6단계로 나눠, 바로 복사해 쓰는 AI 요청 프롬프트를 37개 담았습니다. 웹과 모바일뿐 아니라 파이썬 데스크탑 앱, 엑셀 업무 자동화, 크롬 확장 프로그램까지 다룹니다. 각 항목에는 바꿔 넣을 항목, 기대 결과, 검수 체크리스트, 주의사항, 관련 용어가 함께 있고 비용이나 데이터 삭제 위험은 미리 알려드립니다. 첫 실행 순서를 앱 둘러보기 다음에 수준 진단이 오도록 바로잡았습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
-    "en": "A new Practice tab. It splits work into six stages from planning to release and gives you 37 copy-ready AI prompts. Beyond web and mobile it now covers Python desktop apps, Excel automation, and Chrome extensions. Each entry comes with the fields to replace, the expected result, a review checklist, cautions, and related terms, and warns you up front about cost or data-loss risk. The first-run order was fixed so the app tour comes before the level check. Ads are not shown in this test build.",
-    "ja": "実践タブを追加しました。企画から配信までを6段階に分け、すぐコピーして使えるAIプロンプトを37件収録しています。WebとモバイルだけでなくPythonのデスクトップアプリ、Excelの業務自動化、Chrome拡張機能も扱います。各項目には差し替える項目、期待される結果、確認チェックリスト、注意事項、関連用語が付き、費用やデータ削除のリスクは事前にお知らせします。初回起動の順序を、アプリ紹介のあとにレベル診断が来るよう修正しました。このテストビルドでは広告は表示されません。"
+    "ko": "실전 기획 단계에 문서 작성 프롬프트를 추가했습니다. 한 줄 아이디어를 검증 가능한 컨셉으로 구체화하고, AI가 계속 참고할 PRD.md와 화면 기준을 담은 design.md를 요청하는 방법을 담았습니다. 기획 항목은 실제 작업 순서대로 정렬됩니다. 설정에 콘텐츠 등록 요청하기를 추가해, 검색하지 않고도 원하는 용어나 실전 주제를 요청할 수 있습니다. 앱 진단 정보가 문제가 없는데도 표시되던 문제를 고쳤습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
+    "en": "The Practice planning stage now includes document prompts: shaping a one-line idea into a testable concept, and asking for a PRD.md the AI keeps referring to plus a design.md that sets your screen rules. Planning entries are ordered by real workflow. Settings gained a Request New Content entry so you can suggest a term or practice topic without searching first. Fixed App Diagnostics appearing when nothing was actually wrong. Ads are not shown in this test build.",
+    "ja": "実践の企画段階に文書作成プロンプトを追加しました。一行のアイデアを検証できるコンセプトに具体化し、AIが参照し続けるPRD.mdと画面基準をまとめたdesign.mdを依頼する方法を収録しています。企画の項目は実際の作業順に並びます。設定にコンテンツ登録リクエストを追加し、検索せずに用語や実践テーマを提案できます。問題がないのにアプリ診断情報が表示される不具合を修正しました。このテストビルドでは広告は表示されません。"
   }
 }
