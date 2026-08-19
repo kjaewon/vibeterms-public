@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.4.0",
-  "latestBuild": 7,
+  "latestVersion": "0.5.0",
+  "latestBuild": 8,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "검색에서 오타를 입력해도 비슷한 용어를 찾아줍니다. 예를 들어 enviroment나 환경변슈처럼 잘못 입력해도 알맞은 용어를 추천합니다. 검색 속도도 크게 빨라졌습니다. 화면 아래 안내 문구를 전면 정리했습니다. 즐겨찾기 안내가 사라지지 않던 문제를 고쳤고, 프롬프트 복사는 버튼에서 바로 확인되며, 배지 안내는 한 줄로 합쳐 짧게 표시됩니다. 학습 알림 예약이 중간에 실패해도 나머지 날짜는 정상 등록되도록 개선했습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
-    "en": "Search now handles typos: misspellings like enviroment or a mistyped Korean term still surface the right entry. Search is also much faster. Bottom-of-screen messages were reworked across the app. Fixed a bug where the favorite message never disappeared, prompt copying now confirms on the button itself, and badge messages are combined into a single short line. Reminder scheduling no longer loses the remaining days when one day fails. Ads are not shown in this test build.",
-    "ja": "検索でスペルを間違えても近い用語を見つけられるようになりました。enviromentのような入力ミスでも適切な用語を提案します。検索速度も大幅に改善しました。画面下部の案内表示を全面的に整理しました。お気に入りの案内が消えない問題を修正し、プロンプトのコピーはボタン上で確認でき、バッジの案内は1行にまとめて短く表示します。学習リマインダーは一部の予約が失敗しても残りの日付が正しく登録されるようにしました。このテストビルドでは広告は表示されません。"
+    "ko": "실전 탭이 새로 생겼습니다. 기획부터 배포까지 6단계로 나눠, 바로 복사해 쓰는 AI 요청 프롬프트를 37개 담았습니다. 웹과 모바일뿐 아니라 파이썬 데스크탑 앱, 엑셀 업무 자동화, 크롬 확장 프로그램까지 다룹니다. 각 항목에는 바꿔 넣을 항목, 기대 결과, 검수 체크리스트, 주의사항, 관련 용어가 함께 있고 비용이나 데이터 삭제 위험은 미리 알려드립니다. 첫 실행 순서를 앱 둘러보기 다음에 수준 진단이 오도록 바로잡았습니다. 이 테스트 빌드에서는 광고가 표시되지 않습니다.",
+    "en": "A new Practice tab. It splits work into six stages from planning to release and gives you 37 copy-ready AI prompts. Beyond web and mobile it now covers Python desktop apps, Excel automation, and Chrome extensions. Each entry comes with the fields to replace, the expected result, a review checklist, cautions, and related terms, and warns you up front about cost or data-loss risk. The first-run order was fixed so the app tour comes before the level check. Ads are not shown in this test build.",
+    "ja": "実践タブを追加しました。企画から配信までを6段階に分け、すぐコピーして使えるAIプロンプトを37件収録しています。WebとモバイルだけでなくPythonのデスクトップアプリ、Excelの業務自動化、Chrome拡張機能も扱います。各項目には差し替える項目、期待される結果、確認チェックリスト、注意事項、関連用語が付き、費用やデータ削除のリスクは事前にお知らせします。初回起動の順序を、アプリ紹介のあとにレベル診断が来るよう修正しました。このテストビルドでは広告は表示されません。"
   }
 }
