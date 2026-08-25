@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.0",
-  "latestBuild": 10,
+  "latestVersion": "0.6.1",
+  "latestBuild": 11,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "연속 학습 보호권을 광고 시청으로 하나 더 받을 수 있습니다. 홈 화면에서 보호권이 3개 미만일 때 하루 한 번만 나타나며, 원하지 않으면 누르지 않아도 됩니다. 학습을 가로막는 광고는 없습니다.",
-    "en": "You can now earn one extra streak shield by watching a short ad. It appears on Home only when you have fewer than three shields, once per day, and you can simply ignore it. No ads interrupt your learning.",
-    "ja": "連続学習の保護券を、広告の視聴でもう1枚受け取れるようになりました。ホーム画面で保護券が3枚未満のときに1日1回だけ表示され、不要ならそのままで構いません。学習を妨げる広告はありません。"
+    "ko": "앱을 개선하는 데 쓰려고 익명 사용 통계 수집을 시작했습니다. 어떤 화면과 기능이 실제로 쓰이는지만 확인하며, 검색어나 학습 내용 같은 입력 정보는 수집하지 않습니다. 자세한 내용은 설정의 개인정보처리방침에서 확인하실 수 있습니다.",
+    "en": "We started collecting anonymous usage statistics to improve the app. It only shows which screens and features are actually used — your search terms and learning content are never collected. See the privacy policy in Settings for details.",
+    "ja": "アプリ改善のため、匿名の利用統計の収集を開始しました。どの画面や機能が実際に使われているかのみを確認し、検索語や学習内容などの入力情報は収集しません。詳細は設定のプライバシーポリシーをご確認ください。"
   }
 }
