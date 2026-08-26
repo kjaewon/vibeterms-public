@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.1",
-  "latestBuild": 11,
+  "latestVersion": "0.7.0",
+  "latestBuild": 12,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "앱을 개선하는 데 쓰려고 익명 사용 통계 수집을 시작했습니다. 어떤 화면과 기능이 실제로 쓰이는지만 확인하며, 검색어나 학습 내용 같은 입력 정보는 수집하지 않습니다. 자세한 내용은 설정의 개인정보처리방침에서 확인하실 수 있습니다.",
-    "en": "We started collecting anonymous usage statistics to improve the app. It only shows which screens and features are actually used — your search terms and learning content are never collected. See the privacy policy in Settings for details.",
-    "ja": "アプリ改善のため、匿名の利用統計の収集を開始しました。どの画面や機能が実際に使われているかのみを確認し、検索語や学習内容などの入力情報は収集しません。詳細は設定のプライバシーポリシーをご確認ください。"
+    "ko": "연속 학습 보호권을 최대 10개까지 모을 수 있습니다. 기존에는 3개가 상한이라 더 모을 수 없었는데, 이제 여유 있게 쌓아두고 바쁜 날에 쓸 수 있습니다. 광고로 받는 보호권도 10개가 될 때까지 계속 받을 수 있어요. 실전 화면을 정리해 내용에 더 집중할 수 있게 했습니다.",
+    "en": "You can now hold up to 10 streak shields. The old limit was 3, so you could not stock up — now you can build a buffer for busy days. Shields earned from ads also keep coming until you reach 10. The Practice screen was tidied up so the content stands out more.",
+    "ja": "連続学習の保護券を最大10枚まで持てるようになりました。これまでは3枚が上限で貯められませんでしたが、忙しい日に備えて余裕を持って貯められます。広告で受け取る保護券も10枚になるまで受け取れます。実践画面を整理し、内容に集中しやすくしました。"
   }
 }
