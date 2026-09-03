@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.0",
-  "latestBuild": 12,
+  "latestVersion": "0.7.1",
+  "latestBuild": 13,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "연속 학습 보호권을 최대 10개까지 모을 수 있습니다. 기존에는 3개가 상한이라 더 모을 수 없었는데, 이제 여유 있게 쌓아두고 바쁜 날에 쓸 수 있습니다. 광고로 받는 보호권도 10개가 될 때까지 계속 받을 수 있어요. 실전 화면을 정리해 내용에 더 집중할 수 있게 했습니다.",
-    "en": "You can now hold up to 10 streak shields. The old limit was 3, so you could not stock up — now you can build a buffer for busy days. Shields earned from ads also keep coming until you reach 10. The Practice screen was tidied up so the content stands out more.",
-    "ja": "連続学習の保護券を最大10枚まで持てるようになりました。これまでは3枚が上限で貯められませんでしたが、忙しい日に備えて余裕を持って貯められます。広告で受け取る保護券も10枚になるまで受け取れます。実践画面を整理し、内容に集中しやすくしました。"
+    "ko": "큰 글자 설정에서도 온보딩과 실전 필터를 편하게 사용할 수 있도록 개선했습니다. 퀴즈 정답과 선택 상태, 즐겨찾기를 더 명확하게 표시하고 화면 읽기 기능을 보완했습니다. 날짜별 학습 기록 목록을 추가했으며, 일부 글자 대비와 앱 둘러보기, 접근성 모드의 알림 표시를 개선했습니다.",
+    "en": "Improved onboarding and Practice filters for larger text. Quiz answers, selections, and favorites are now clearer, with better screen reader support. Added a daily learning records list and improved text contrast, app tour navigation, and actionable alerts in accessibility mode.",
+    "ja": "文字を大きく設定した際の初期設定画面と実践フィルターを改善しました。クイズの正解・選択状態やお気に入りをわかりやすくし、読み上げにも対応しました。日別の学習記録一覧を追加し、一部の文字のコントラスト、アプリ案内、アクセシビリティ利用時の通知表示を改善しました。"
   }
 }
