@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.1",
-  "latestBuild": 13,
+  "latestVersion": "0.7.2",
+  "latestBuild": 14,
   "minSupportedVersion": "0.1.0",
   "storeUrl": "https://play.google.com/store/apps/details?id=com.next2great.vibeterms",
   "releaseNotes": {
-    "ko": "큰 글자 설정에서도 온보딩과 실전 필터를 편하게 사용할 수 있도록 개선했습니다. 퀴즈 정답과 선택 상태, 즐겨찾기를 더 명확하게 표시하고 화면 읽기 기능을 보완했습니다. 날짜별 학습 기록 목록을 추가했으며, 일부 글자 대비와 앱 둘러보기, 접근성 모드의 알림 표시를 개선했습니다.",
-    "en": "Improved onboarding and Practice filters for larger text. Quiz answers, selections, and favorites are now clearer, with better screen reader support. Added a daily learning records list and improved text contrast, app tour navigation, and actionable alerts in accessibility mode.",
-    "ja": "文字を大きく設定した際の初期設定画面と実践フィルターを改善しました。クイズの正解・選択状態やお気に入りをわかりやすくし、読み上げにも対応しました。日別の学習記録一覧を追加し、一部の文字のコントラスト、アプリ案内、アクセシビリティ利用時の通知表示を改善しました。"
+    "ko": "설정 화면 맨 아래에 개발자의 다른 앱을 추가했습니다. 기기 국가를 기준으로 한국 한정 앱과 전 세계 대상 앱을 구분해 표시합니다. 설치된 앱은 바로 실행하고, 미설치 앱은 Play 스토어로 연결합니다.",
+    "en": "Added more apps by this developer at the bottom of Settings. Apps are shown according to the device country, including Korea-only and worldwide apps. Installed apps open directly; otherwise, their Play Store page opens.",
+    "ja": "設定画面の一番下に、開発者の他のアプリを追加しました。端末の国に応じて、韓国限定アプリと全世界向けアプリを表示します。インストール済みのアプリは直接起動し、未インストールの場合はPlayストアを開きます。"
   }
 }
